@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yojith009
+- 👀 I’m interested in coding and love to be a geek
+- 🌱 I’m currently learning python
